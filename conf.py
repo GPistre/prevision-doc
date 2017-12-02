@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Prevision.io'
-copyright = '2017, Gérôme Pistre'
-author = 'Gérôme Pistre'
+copyright = '2017, Gerome Pistre'
+author = 'Gerome Pistre'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -143,7 +143,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Previsionio.tex', 'Prevision.io Documentation',
-     'Gérôme Pistre', 'manual'),
+     'Gerome Pistre', 'manual'),
 ]
 
 
